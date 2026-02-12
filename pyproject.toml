@@ -25,6 +25,7 @@ dependencies = [
     "ibllib",
     "iblutil>=1.6.0",
     "pandas",
+    "spikeinterface",
 ]
 
 [project.urls]
